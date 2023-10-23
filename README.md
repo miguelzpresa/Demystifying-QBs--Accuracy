@@ -2,7 +2,7 @@
 "Final Project",UNAM -TICs-Simulation and Modeling 2024-1 class,taught by Dr. Victor de la Luz 
 
 # Team_Members :family:
-* Valeria Garcés Mendoza  
+* Valeria Garcés Mendoza ([valeria-gm](https://github.com/valeria-gm))
 * Gerardo Zabdiel Martinez Zavala
 * Miguel Ángel Zamorano Presa. ([miguelzpresa](https://github.com/miguelzpresa))
 
