@@ -3,7 +3,7 @@
 
 # Team_Members :family:
 * Valeria Garcés Mendoza  
-*Gerardo Zabdiel Martinez Zavala
+* Gerardo Zabdiel Martinez Zavala
 * Miguel Ángel Zamorano Presa. ([miguelzpresa](https://github.com/miguelzpresa))
 
 ____
