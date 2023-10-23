@@ -20,7 +20,7 @@ ____
 # Introduction :microscope:
 
 
-The goal of this project is to model the trajectory of an American football to determine the force and angle necessary to complete a pass given the coordinates of the quarterback, the direction and speed of the receiver.
+The goal of this project is to model the trajectory of an American football ball to determine the force and angle necessary to complete a pass given the coordinates of the quarterback, the direction and speed of the receiver making an estimation of the receiver-ball intersection.
 
 The American football is a project that is affected by gravity and air resistance. Gravity causes the ball to fall toward the ground, while air resistance causes the ball to lose speed.
 
