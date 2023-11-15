@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#https://youtu.be/U7rPIg7ZNQ8
 #import numpy as np
 import math
 
@@ -119,8 +119,11 @@ class Integrator():
 
 dt = 1e-2 #sec
 
-earth = Particle(5.9736e24, 6371.0e3 ,  [0.0, 0.0, 0.0], [0, 0, 0])
-ball = Particle(10.0, 0.12, [6371.0e3+1.0 , 0.0, 0.0], [1e5, 0, 0])
+earth = Particle(5.9736e24, 6371.0e3 ,  [0.0,0.0,0.0], [0, 0, 0])
+ball = Particle(.450, 0.025, [84.582,37.4904, 1.85], [1e5, 0, 0])
+#coordenadas de llegada x=91.44,y=20.0856 z= 1.88
+#hipo= 174.98
+#theta = grados
 
 parabolic_system =  N_body_system()
 
