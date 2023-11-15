@@ -8,7 +8,8 @@ def myplot(plot, filename, dt, n_particle):
     with open(filename) as f:
         lines = f.readlines()
 
-    N = int(lines[0]) # number of particles
+    #N = int(lines[0]) # number of particles
+    N=1
     i = 0
     j = 0
     x = []
@@ -56,7 +57,7 @@ fig = plt.figure()
 ax = fig.add_subplot()
 n_particle = 2 # the particle that I want to observe
 
-myplot(ax , "rocket-test18.dat", 1e-2, 2)
+myplot(ax , "res.dat", 1e-2, 1)
 
 ax.set_aspect('equal')
 ax.legend()
