@@ -120,7 +120,7 @@ class Integrator():
 dt = 1e-2 #sec
 v_x= 7.69
 v_y= 7.7572
-earth = Particle(5.9736e24, 6371.0e3 ,  [0.0,0.0,0.0], [0, 0, 0])
+earth = Particle(5.9736e24, 6371.0e3 ,  [0.0,0.0,-6371.0e3], [0, 0, 0])
 ball = Particle(.450, 0.025, [84.582,32.9184, 1.85], [v_x, v_y, 0])
 #coordenadas de llegada x=91.44,y= 31.089 z= 1.88
 #hipo= 7.03
