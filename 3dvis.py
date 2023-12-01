@@ -2,11 +2,12 @@
 
 import matplotlib.pyplot as plt
 
-with open('res.dat') as f:
+with open('pres.dat') as f:
     lines = f.readlines()
 #print(lines)
-#N = float(lines[0])
-N= float
+N = len(lines)
+#N= float
+print(N)
 
 i = 0
 j = 0
@@ -15,14 +16,14 @@ ax = fig.add_subplot(projection='3d')
 x = []
 y = []
 z = []
-print(lines[7:15])
-for data in lines[2:]:
-    print(data)
+#print(lines)
+for data in lines:
+    #print(data)
     coordinates = data.split()
-    print(coordinates)
-    x.append(float(coordinates[2]))
-    y.append(float(coordinates[3]))
-    z.append(float(coordinates[4]))
+    #sprint(coordinates)
+    x.append(float(coordinates[0]))
+    y.append(float(coordinates[1]))
+    z.append(float(coordinates[2]))
     i = i+1
     if (i==N):
         i = 0
