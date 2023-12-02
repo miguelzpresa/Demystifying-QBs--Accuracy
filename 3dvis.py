@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 
 import matplotlib.pyplot as plt
+import numpy as np
 
-with open('pres.dat') as f:
+with open('res2.dat') as f:
     lines = f.readlines()
 #print(lines)
 N = len(lines)
@@ -17,6 +18,8 @@ x = []
 y = []
 z = []
 #print(lines)
+line = np.linspace(0, 90, 1000)
+
 for data in lines:
     #print(data)
     coordinates = data.split()
@@ -33,7 +36,7 @@ for data in lines:
         plt.savefig(f"output/frame-"+nn+".png")
         plt.cla()
         ax.set_xlim([0.0, 90.0])
-        ax.set_ylim([0.0, 90.0])
+        #ax.set_ylim([0.0, 90.0])
         ax.set_zlim([-7.0, 7.0])
         j = j+1
         x = []
