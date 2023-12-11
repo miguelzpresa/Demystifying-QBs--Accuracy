@@ -22,6 +22,8 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg
 [![Watch the video](![imm](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/assets/49998408/e2a92709-018b-4a83-ad9e-c183ed94f318))](https://www.youtube.com/watch?v=U7rPIg7ZNQ8)
 
+
+
 ![alt text](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/blob/main/output14/prueba14.gif)
 
 ____
@@ -48,6 +50,8 @@ Below are some of the challenges expected to be faced in this project:
 
 Despite these challenges, this project has the potential to be a valuable tool for American football players and coaches.
 
+
+![imm](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/assets/49998408/6b18bf59-9006-445e-b4e9-b31e31ca5d66)
 
 
 
@@ -96,13 +100,16 @@ This project has the potential to have a positive impact on American football. T
 Integrate all the previous phases into a functional and efficient system.
 Conduct exhaustive testing to ensure that the system works correctly in all situations.
 
-# Metodology:satellite:
+# Metodology :satellite:
 ---
 The mathematical model for the trajectory of an American football will be based on the laws of physics. The model will take into account the following factors:
 
     The force and direction of the throw.
     Air resistance.
     The gravity.
+
+![WhatsApp Image 2023-12-01 at 21 36 18](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/assets/49998408/0c9fcb28-eff0-4495-a67c-f4ac356f34d2)
+
 
 The computer program will be implemented in Python. The program will read the coordinates of the quarterback and receiver as input. The program will use the mathematical model to calculate the force and angle needed to throw the ball.
 
