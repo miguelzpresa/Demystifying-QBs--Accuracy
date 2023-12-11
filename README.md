@@ -163,7 +163,13 @@ convert -delay 0 -quality 20 -size 200 -loop 5 *.png prueba8.gif
 ---
 # Conclusions: :pencil2:
 
+This project represents a significant stride towards enhancing passing accuracy in American football. By employing the projectile motion equation and an iterative process to determine the optimal force and angle for a pass, this initiative addresses the complex dynamics influenced by gravity, air resistance, and the varying conditions of the playing field. The potential impact of this project extends beyond the field, as it opens avenues for the development of innovative training systems. These systems could revolutionize how football players hone their skills, fostering precision and expertise in executing challenging passes.
 
+Our efforts have successfully resulted in the accurate modeling of the trajectory for actual plays. Through rigorous testing and iterative processes, we have achieved a level of precision in determining the force and angle required for a successful pass. This success not only validates the viability of our approach but also underscores the potential practical applications of our model in real-world game scenarios.
+
+Furthermore, we took our commitment to excellence a step further by exploring and modeling trajectories that we believe represent improved plays. This forward-looking aspect of our project opens up exciting possibilities for strategic decision-making on the field and could contribute to the evolution of play-calling strategies in American football.
+
+In essence, our project has not only addressed the initial objectives of accurately modeling actual play trajectories but has also ventured into the realm of strategic optimization. This dual accomplishment positions our work as a valuable resource for both players and coaches, offering insights into both current performance dynamics and potential avenues for enhancing gameplay. As we continue to refine and expand our models, the impact on American football training and strategy development is poised to be even more profound.
 
 
 ---
