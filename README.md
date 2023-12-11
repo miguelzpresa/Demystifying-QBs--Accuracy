@@ -145,7 +145,14 @@ The project is expected to achieve the following results:
 1. clone the deployment repo
 2. get libraries versions specified in requirements.txt
 3. execute run.py
-
+Instructions to create the gift
+1. run rocket.py and create a .dat file with the data
+2. Create a folder where the images will be saved
+3.run the visual.py code changing the name of the data file and the folder where the images will be saved
+4.Create the gift with the images
+-Position yourself in the folder
+-run the following command on the terminal:
+convert -delay 0 -quality 20 -size 200 -loop 5 *.png prueba8.gif
 ---
 # Conclusions: :pencil2:
 
