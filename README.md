@@ -102,6 +102,9 @@ Conduct exhaustive testing to ensure that the system works correctly in all situ
 
 # Metodology :satellite:
 ---
+
+
+
 The mathematical model for the trajectory of an American football will be based on the laws of physics. The model will take into account the following factors:
 
     The force and direction of the throw.
@@ -109,6 +112,10 @@ The mathematical model for the trajectory of an American football will be based 
     The gravity.
 
 ![WhatsApp Image 2023-12-01 at 21 36 18](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/assets/49998408/0c9fcb28-eff0-4495-a67c-f4ac356f34d2)
+
+
+
+![imm2](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/assets/49998408/f95e6c8e-f623-4308-841b-00b04687091a)
 
 
 The computer program will be implemented in Python. The program will read the coordinates of the quarterback and receiver as input. The program will use the mathematical model to calculate the force and angle needed to throw the ball.
