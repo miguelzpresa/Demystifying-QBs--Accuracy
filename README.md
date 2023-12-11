@@ -18,6 +18,8 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 
 
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=U7rPIg7ZNQ8)
+
 ![alt text](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/blob/main/output14/prueba14.gif)
 
 ____
