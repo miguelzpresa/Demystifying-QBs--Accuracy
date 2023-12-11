@@ -3,12 +3,12 @@
 
 # Team_Members :family:
 * Valeria Garcés Mendoza ([valeria-gm](https://github.com/valeria-gm))
-* Gerardo Zabdiel Martinez Zavala
+* Gerardo Zabdiel Martinez Zavala([ZabdielZ](https://github.com/ZabdielZ))
 * Miguel Ángel Zamorano Presa. ([miguelzpresa](https://github.com/miguelzpresa))
 
 ____
 # License :space_invader:
-Copyright © 2023 <,gmvaleriaaa@gmail.commikezpresa@gmail.com,Gm546161@gmail.com>
+Copyright © 2023 <,gmvaleriaaa@gmail.com,mikezpresa@gmail.com,gm546161@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
