@@ -173,7 +173,7 @@ In essence, our project has not only addressed the initial objectives of accurat
 
 
 ---
-# References :peach:
+
 ---
 
 
