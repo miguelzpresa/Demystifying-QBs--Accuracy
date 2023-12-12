@@ -159,8 +159,9 @@ Instructions to create the gift
 -Position yourself in the folder
 -run the following command on the terminal:
 convert -delay 0 -quality 20 -size 200 -loop 5 *.png prueba8.gif
----
-# Conclusions: :space_invader:
+---  
+
+# Conclusions :space_invader:
 
 This project represents a significant stride towards enhancing passing accuracy in American football. By employing the projectile motion equation and an iterative process to determine the optimal force and angle for a pass, this initiative addresses the complex dynamics influenced by gravity, air resistance, and the varying conditions of the playing field. The potential impact of this project extends beyond the field, as it opens avenues for the development of innovative training systems. These systems could revolutionize how football players hone their skills, fostering precision and expertise in executing challenging passes.
 
