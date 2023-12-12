@@ -18,8 +18,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 
 
-![imm](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/assets/49998408/e2a92709-018b-4a83-ad9e-c183ed94f318)
-https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg
+[![imm](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/assets/49998408/e2a92709-018b-4a83-ad9e-c183ed94f318)](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)
 [![Watch the video](![imm](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/assets/49998408/e2a92709-018b-4a83-ad9e-c183ed94f318))](https://www.youtube.com/watch?v=U7rPIg7ZNQ8)
 
 
