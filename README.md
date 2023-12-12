@@ -18,7 +18,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 
 
-[![imm](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/assets/49998408/e2a92709-018b-4a83-ad9e-c183ed94f318)](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)
+[![imm](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/assets/49998408/e2a92709-018b-4a83-ad9e-c183ed94f318)](https://www.youtube.com/watch?v=U7rPIg7ZNQ8)
 [![Watch the video](![imm](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/assets/49998408/e2a92709-018b-4a83-ad9e-c183ed94f318))](https://www.youtube.com/watch?v=U7rPIg7ZNQ8)
 
 
@@ -160,7 +160,7 @@ Instructions to create the gift
 -run the following command on the terminal:
 convert -delay 0 -quality 20 -size 200 -loop 5 *.png prueba8.gif
 ---
-# Conclusions: :pencil2:
+# Conclusions: :space_invader:
 
 This project represents a significant stride towards enhancing passing accuracy in American football. By employing the projectile motion equation and an iterative process to determine the optimal force and angle for a pass, this initiative addresses the complex dynamics influenced by gravity, air resistance, and the varying conditions of the playing field. The potential impact of this project extends beyond the field, as it opens avenues for the development of innovative training systems. These systems could revolutionize how football players hone their skills, fostering precision and expertise in executing challenging passes.
 
