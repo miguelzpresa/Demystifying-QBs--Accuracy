@@ -23,7 +23,9 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 
 
-![alt text](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/blob/main/output14/prueba14.gif)
+![alt text](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/blob/main/output14/prueba14.gif)  
+
+![WhatsApp Image 2023-12-13 at 17 12 19(2)](https://github.com/miguelzpresa/Demystifying-QBs--Accuracy/assets/49998408/a896f8d5-585a-4de9-aade-d5313ea74641)
 
 ____
 # Introduction :microscope:
