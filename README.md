@@ -60,43 +60,15 @@ Despite these challenges, this project has the potential to be a valuable tool f
 # Justification :telescope:
 ---
 Potential impact
-
-This project has the potential to have a positive impact on American football. The mathematical model and computer program could help coaches and players improve passing accuracy. This could lead to an increase in the number of passes completed, which could lead to an increase in the number of touchdowns and points scored.
-
-
-
-
----
- 
-
-
-
-# Arquitecture 
-
-
-
-
-
-
-
----
-
-
+The mathematical model and computer program could help coaches and players improve passing accuracy. This could lead to an increase in the number of passes completed, which could lead to an increase in the number of touchdowns and points scored.
 
 
 ---
 # Objectives_of_each_Phase :pushpin:
 ---
 ##### Phase 1: Develop a mathematical model for the trajectory of the ball
-+
-+
 ##### Phase 2: Implement the model in a computer program.
-+
-+
 ##### Phase 3: Use the program to calculate the force and angle needed to throw the ball so that the receiver can catc
-+
-+
-
 ##### Phase 4: Integration and Testing
 Integrate all the previous phases into a functional and efficient system.
 Conduct exhaustive testing to ensure that the system works correctly in all situations.
